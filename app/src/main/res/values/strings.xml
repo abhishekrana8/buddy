@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">buddy</string>
+    <string name="enter_the_text_for_post">Enter the text for post!!</string>
+    <string name="post">POST</string>
+    <string name="todo">TODO</string>
+</resources>
